@@ -1,5 +1,6 @@
 # Databricks notebook source
 print("initial test")
+print("starting transformation for landing to bronze")
 
 # COMMAND ----------
 
